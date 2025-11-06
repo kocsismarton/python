@@ -1,0 +1,49 @@
+{
+  "ruhakeszlet": [
+    {
+      "id": 1,
+      "nev": "Póló",
+      "ar": 2999,
+      "beszerzesiHely": "Budapest",
+      "beszerzesiIdo": "2025-06-15",
+      "meretek": ["S", "M", "L", "XL"],
+      "szin": "kék",
+      "anyag": "pamut",
+      "darabszam": 150
+    },
+    {
+      "id": 2,
+      "nev": "Farmernadrág",
+      "ar": 7999,
+      "beszerzesiHely": "Debrecen",
+      "beszerzesiIdo": "2025-05-10",
+      "meretek": ["M", "L", "XL"],
+      "szin": "fekete",
+      "anyag": "denim",
+      "darabszam": 75
+    },
+    {
+      "id": 3,
+      "nev": "Pulóver",
+      "ar": 12999,
+      "beszerzesiHely": "Szeged",
+      "beszerzesiIdo": "2025-04-20",
+      "meretek": ["S", "M", "L"],
+      "szin": "szürke",
+      "anyag": "gyapjú",
+      "darabszam": 50
+    },
+    {
+      "id": 4,
+      "nev": "Kabát",
+      "ar": 19999,
+      "beszerzesiHely": "Budapest",
+      "beszerzesiIdo": "2025-08-01",
+      "meretek": ["L", "XL"],
+      "szin": "zöld",
+      "anyag": "vízálló",
+      "darabszam": 30
+    }
+  ]
+}
+
