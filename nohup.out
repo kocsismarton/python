@@ -81,3 +81,53 @@ Emitted 'error' event on Server instance at:
 }
 
 Node.js v18.20.4
+Proxy server listening at *:8080
+[::1]:38826: client connect
+[::1]:38826: server connect api.thecatapi.com:443 (172.67.165.7:443)
+[::1]:38826: GET https://api.thecatapi.com/v1/breeds
+          << 200 OK 15.2k
+Proxy server listening at *:8080
+[::1]:51734: client connect
+[::1]:51734: server connect postman-echo.com:443 (162.159.142.41:443)
+[::1]:51734: GET https://postman-echo.com/basic-auth
+          << 200 OK 22b
+[::1]:51734: client disconnect
+[::1]:51734: server disconnect postman-echo.com:443 (162.159.142.41:443)
+Proxy server listening at *:8080
+[::1]:37098: client connect
+[::1]:37098: server connect reqbin.com:443 (104.26.7.224:443)
+[::1]:37098: GET https://reqbin.com/echo/get/json
+          << 403 Forbidden 1.8k
+[::1]:37098: client disconnect
+[::1]:37098: server disconnect reqbin.com:443 (104.26.7.224:443)
+[::1]:37988: client connect
+[::1]:37988: server connect postman-echo.com:443 (162.159.142.41:443)
+[::1]:37988: GET https://postman-echo.com/basic-auth
+          << 200 OK 22b
+[::1]:37988: client disconnect
+[::1]:37988: server disconnect postman-echo.com:443 (162.159.142.41:443)
+[::1]:56402: client connect
+[::1]:56402: server connect api.thecatapi.com:443 (104.21.33.166:443)
+[::1]:56402: GET https://api.thecatapi.com/v1/breeds
+          << 200 OK 15.3k
+[::1]:56402: client disconnect
+[::1]:56402: server disconnect api.thecatapi.com:443 (104.21.33.166:443)
+Proxy server listening at *:8080
+[::1]:50726: client connect
+[::1]:50726: server connect reqbin.com:443 (104.26.6.224:443)
+[::1]:50726: GET https://reqbin.com/echo/get/json
+          << 403 Forbidden 1.8k
+[::1]:50726: client disconnect
+[::1]:50726: server disconnect reqbin.com:443 (104.26.6.224:443)
+[::1]:41708: client connect
+[::1]:41708: server connect api.thecatapi.com:443 (172.67.165.7:443)
+[::1]:41708: GET https://api.thecatapi.com/v1/breeds
+          << 200 OK 15.3k
+[::1]:41708: client disconnect
+[::1]:41708: server disconnect api.thecatapi.com:443 (172.67.165.7:443)
+[::1]:41722: client connect
+[::1]:41722: server connect postman-echo.com:443 (162.159.142.41:443)
+[::1]:41722: GET https://postman-echo.com/basic-auth
+          << 200 OK 22b
+[::1]:41722: client disconnect
+[::1]:41722: server disconnect postman-echo.com:443 (162.159.142.41:443)
